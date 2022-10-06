@@ -1,5 +1,5 @@
 # Demo-Week-2
-Praktikum Web UP
+Praktikum Web UP week 2
 
 Renewry Chovenanthza - 105220025
-This is Demo Program
+Robin Kenobi - 105220006
